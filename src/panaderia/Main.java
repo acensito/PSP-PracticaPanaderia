@@ -29,7 +29,7 @@ public class Main {
         ArrayList <Cliente> clientes = new ArrayList<>();
         
         while (panaderia.isAbierta()) {
-            System.out.println("-- Menú panadería --");
+            System.out.println("-- MeÑñú panadería --");
             System.out.println("1. Llegada de grupo de clientes.");
             System.out.println("2. Ver estado panaderia.");
             System.out.println("3. Cerrar la panaderia.");
